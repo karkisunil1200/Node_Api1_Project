@@ -1,0 +1,15 @@
+{
+  "name": "Node_Api1_Project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/karkisunil1200/Node_Api1_Project.git",
+  "author": "Sunil Karki <karkisunil1200@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "server": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
